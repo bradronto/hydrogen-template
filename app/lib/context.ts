@@ -42,7 +42,7 @@ export async function createAppLoadContext(
   return {
     ...hydrogenContext,
 
-    like what should I add?
+    
     // add your custom context here
   };
 }
