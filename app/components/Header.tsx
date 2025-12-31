@@ -60,7 +60,7 @@ export function HeaderMenu({
           style={activeLinkStyle}
           to="/"
         >
-          Home
+          Homeless
         </NavLink>
       )}
       {(menu || FALLBACK_HEADER_MENU).items.map((item) => {
